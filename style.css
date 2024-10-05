@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    border-radius: 16px;
+}
+
+.card {
+    width: 300px;
+    height: auto;
+    background-color: #E6E4AB;
+    padding: 20px;
+    box-shadow: none; 
+    text-align: center;
+}
+
+p {
+    margin: 0;
+    font-size: 22px;
+    color: rgb(31, 30, 30);
+    font-family: 'Irish Grover';
+}
